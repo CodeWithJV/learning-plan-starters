@@ -1,7 +1,9 @@
-# CodeWithJV Sample Courses
+# CodeWithJV Course Plan Examples
 
-This repository demonstrates curriculum created by the [AI Tutor](https://github.com/CodeWithJV/ai-tutor) repository.
+This repository demonstrates curriculum created by the [AI Tutor](https://github.com/CodeWithJV/ai-tutor) ([video intro here](https://www.youtube.com/watch?v=EM_YDpDgZvk)) repository.
 Both courses have been designed to be beginner friendly and cover the basics of coding in either javascript or python.
+
+Feel free to modify any of the courses to add or remove modules or activities or convert them into the language of your choice. These sample courses are intended as a starting point for your own learning journey and can be customized to suit your needs.
 
 ## Folder Structure
 
@@ -36,13 +38,11 @@ To get started with the sample courses, follow these steps:
    - `walk me through the practice exercise one step at a time, I would like to code along` to receive a guided walkthrough of a practice exercise.
 3. Refer to the corresponding markdown files for each course and module in this repository to access the course content and materials.
 
-Feel free to modify any of the courses or convert them into the language of your choice. These sample courses serve as a starting point for your own learning journey and can be customized to suit your needs.
-
 What questions do you think you could ask ChatGPT to extend this curriculum into more advanced aspects of the languages?
 
 ## Contributing
 
-If you have any suggestions or improvements for the sample courses, feel free to contribute! You can create pull requests or open issues in the respective course folders.
+If you have any suggestions or improvements for the sample courses, or if you have a course plan you would like to share, feel free to contribute! You can create pull requests or open issues.
 
 ## License
 
