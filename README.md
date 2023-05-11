@@ -1,12 +1,13 @@
 # CodeWithJV Sample Courses
 
-Welcome to the CodeWithJV Sample Courses repository! This repository contains two sample courses: "Introduction to Programming with JavaScript" and "Introduction to Programming with Python". These courses are created using the [AI Tutor](https://github.com/CodeWithJV/ai-tutor) repository.
+This repository demonstrates curriculum created by the [AI Tutor](https://github.com/CodeWithJV/ai-tutor) repository.
+Both courses have been designed to be beginner friendly and cover the basics of coding in either javascript or python.
 
 ## Folder Structure
 
 The repository has the following folder structure:
 
-- [intro-to-programming-with-javascript](intro-to-programming-with-javascript/): Contains the course materials for the "Introduction to Programming with JavaScript" course.
+- [intro-to-programming-with-javascript](intro-to-programming-with-javascript/): 
   - [course.md](intro-to-programming-with-javascript/course.md): Course overview and description.
   - [module1.md](intro-to-programming-with-javascript/module1.md): Module 1 - Setting up your Environment.
   - [module2.md](intro-to-programming-with-javascript/module2.md): Module 2 - Variables and Data Types.
@@ -15,7 +16,7 @@ The repository has the following folder structure:
   - [module5.md](intro-to-programming-with-javascript/module5.md): Module 5 - Objects.
   - [module6.md](intro-to-programming-with-javascript/module6.md): Module 6 - Project.
 
-- [intro-to-programming-with-python](intro-to-programming-with-python/): Contains the course materials for the "Introduction to Programming with Python" course.
+- [intro-to-programming-with-python](intro-to-programming-with-python/): 
   - [course.md](intro-to-programming-with-python/course.md): Course overview and description.
   - [module1.md](intro-to-programming-with-python/module1.md): Module 1 - Setting up your Environment.
   - [module2.md](intro-to-programming-with-python/module2.md): Module 2 - Variables and Data Types.
@@ -36,6 +37,8 @@ To get started with the sample courses, follow these steps:
 3. Refer to the corresponding markdown files for each course and module in this repository to access the course content and materials.
 
 Feel free to modify any of the courses or convert them into the language of your choice. These sample courses serve as a starting point for your own learning journey and can be customized to suit your needs.
+
+What questions do you think you could ask ChatGPT to extend this curriculum into more advanced aspects of the languages?
 
 ## Contributing
 
