@@ -1,4 +1,4 @@
-# CodeWithJV Course Plan Examples
+# CodeWithJV Learning Plan Examples
 
 This repository demonstrates curriculum created by the [AI Tutor](https://github.com/CodeWithJV/ai-tutor) ([video intro here](https://www.youtube.com/watch?v=EM_YDpDgZvk)) repository.
 Both courses have been designed to be beginner friendly and cover the basics of coding in either javascript or python.
