@@ -5,6 +5,14 @@ Both courses have been designed to be beginner friendly and cover the basics of 
 
 Feel free to modify any of the courses to add or remove modules or activities or convert them into the language of your choice. These sample courses are intended as a starting point for your own learning journey and can be customized to suit your needs.
 
+## Topics
+
+  - [Introduction to markdown](intro-to-markdown/course.md)
+  - [Introduction to programming using python](intro-to-programming-with-python/course.md)
+  - [Introduction to programming using javascript](intro-to-programming-with-javascript/course.md)
+  - [Calling http apis](./apis)
+
+
 ## Folder Structure
 
 The repository has the following folder structure:
