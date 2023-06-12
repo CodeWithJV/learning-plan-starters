@@ -12,6 +12,7 @@ Feel free to modify any of the courses to add or remove modules or activities or
   - [Introduction to programming using javascript](intro-to-programming-with-javascript/course.md)
   - [Calling http apis](./apis)
   - [Terminal deep dive](./terminal/course.md)
+  - [Git introduction](./git-intro/module.md)
 
 
 ## Folder Structure
